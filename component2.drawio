@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T12:36:48.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EmjCZpcZd7UJY5it7tGm" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T12:39:15.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-sNE12NaGklVbRDDMPvA" version="22.0.8" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1477" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -192,7 +192,7 @@
             <mxPoint x="250" y="259.88235294117635" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_a7wI4NOzMQzCbMu960c-25" value="LoanManagment" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
+        <mxCell id="_a7wI4NOzMQzCbMu960c-25" value="&lt;b&gt;LoanManagment&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="435" y="510" width="235" height="184" as="geometry" />
         </mxCell>
         <mxCell id="_a7wI4NOzMQzCbMu960c-26" value="+ loanId: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#393C56;" vertex="1" parent="_a7wI4NOzMQzCbMu960c-25">
